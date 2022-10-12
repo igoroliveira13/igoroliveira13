@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igoroliveira13
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Game Dev with Unity Engine
+- 🌱 I’m currently learning Base from Create Games
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
